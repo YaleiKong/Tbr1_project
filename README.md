@@ -4,7 +4,7 @@
 
 This repository contains the code used to analyze the data reported in the
 study **“A transcriptional switch directs olfactory subsystem identity.”** The
-analyses include 10x Genomics single-cell RNA sequencing (scRNA-seq), bulk RNA-seq, ATAC-seq, and CUT&Tag.
+analyses include 10x Genomics single-cell scRNA-seq, bulk RNA-seq, ATAC-seq, and CUT&Tag.
 
 ## Data availability
 
